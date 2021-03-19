@@ -5,10 +5,10 @@ This repository serves as a documentation for the experiments described in "Scal
 
 The softwares we evaluate are located here:
 
-* Mallob: github.com/domschrei/mallob
-* Hordesat (updated): github.com/domschrei/hordesat
-* Lingeling: github.com/arminbiere/lingeling
-* Kissat: github.com/arminbiere/kissat
+* Mallob: https://github.com/domschrei/mallob
+* Hordesat (updated): https://github.com/domschrei/hordesat
+* Lingeling: https://github.com/arminbiere/lingeling
+* Kissat: https://github.com/arminbiere/kissat
 
 
 ## Content
