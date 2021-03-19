@@ -1,7 +1,7 @@
 
 # mallob-experimental-data
 
-This repository serves as a documentation for the experiments described in "Scalable SAT Solving in the Cloud" (SAT 2021 paper submission).
+This repository serves as a documentation for the experiments described in our SAT 2021 paper submission.
 
 The softwares we evaluate are located here:
 
