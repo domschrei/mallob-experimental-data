@@ -10,6 +10,7 @@ The softwares we evaluate are located here:
 * Lingeling: https://github.com/arminbiere/lingeling
 * Kissat: https://github.com/arminbiere/kissat
 
+We also invite you to take a look at [Animallob](https://dominikschreiber.de/animallob), an interactive visualization of selected load balancing experiments.
 
 ## Content
 
