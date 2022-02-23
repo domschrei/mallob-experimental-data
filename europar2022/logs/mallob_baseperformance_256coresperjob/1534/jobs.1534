@@ -1,0 +1,599 @@
+16.413 1534 <#600003> S128.0 Diversification index 128
+16.423 1534 <#600003> S128.0 Received 1707996 literals
+16.423 1534 <#600003> S128.0 Received 0 assumptions
+16.423 1534 <#600003> S128.0 Reading rev. 0, start 0
+17.013 1534 <#600003> S128.0 Reading done @ rev. 0
+17.042 1534 <#600003> S128.0 BEGSOL rev. 0 (0 assumptions)
+16.414 1534 <#600003> S129.0 Diversification index 129
+16.423 1534 <#600003> S129.0 Received 1707996 literals
+16.423 1534 <#600003> S129.0 Received 0 assumptions
+16.423 1534 <#600003> S129.0 Reading rev. 0, start 0
+17.024 1534 <#600003> S129.0 Reading done @ rev. 0
+17.056 1534 <#600003> S129.0 BEGSOL rev. 0 (0 assumptions)
+16.414 1534 <#600003> S130.0 Diversification index 130
+16.423 1534 <#600003> S130.0 Received 1707996 literals
+16.423 1534 <#600003> S130.0 Received 0 assumptions
+16.423 1534 <#600003> S130.0 Reading rev. 0, start 0
+17.091 1534 <#600003> S130.0 Reading done @ rev. 0
+17.093 1534 <#600003> S130.0 BEGSOL rev. 0 (0 assumptions)
+16.415 1534 <#600003> S131.0 Diversification index 131
+16.423 1534 <#600003> S131.0 Received 1707996 literals
+16.423 1534 <#600003> S131.0 Received 0 assumptions
+16.423 1534 <#600003> S131.0 Reading rev. 0, start 0
+17.013 1534 <#600003> S131.0 Reading done @ rev. 0
+17.055 1534 <#600003> S131.0 BEGSOL rev. 0 (0 assumptions)
+35.213 1534 <#500005> S88.0 Diversification index 88
+36.535 1534 <#500005> S88.0 Received 1707996 literals
+36.535 1534 <#500005> S88.0 Received 0 assumptions
+36.535 1534 <#500005> S88.0 Reading rev. 0, start 0
+37.128 1534 <#500005> S88.0 Reading done @ rev. 0
+37.130 1534 <#500005> S88.0 BEGSOL rev. 0 (0 assumptions)
+35.214 1534 <#500005> S89.0 Diversification index 89
+36.535 1534 <#500005> S89.0 Received 1707996 literals
+36.535 1534 <#500005> S89.0 Received 0 assumptions
+36.535 1534 <#500005> S89.0 Reading rev. 0, start 0
+37.159 1534 <#500005> S89.0 Reading done @ rev. 0
+37.161 1534 <#500005> S89.0 BEGSOL rev. 0 (0 assumptions)
+35.214 1534 <#500005> S90.0 Diversification index 90
+36.535 1534 <#500005> S90.0 Received 1707996 literals
+36.535 1534 <#500005> S90.0 Received 0 assumptions
+36.535 1534 <#500005> S90.0 Reading rev. 0, start 0
+37.144 1534 <#500005> S90.0 Reading done @ rev. 0
+37.154 1534 <#500005> S90.0 BEGSOL rev. 0 (0 assumptions)
+36.527 1534 <#500005> S91.0 Diversification index 91
+36.535 1534 <#500005> S91.0 Received 1707996 literals
+36.535 1534 <#500005> S91.0 Received 0 assumptions
+36.536 1534 <#500005> S91.0 Reading rev. 0, start 0
+37.146 1534 <#500005> S91.0 Reading done @ rev. 0
+37.156 1534 <#500005> S91.0 BEGSOL rev. 0 (0 assumptions)
+53.892 1534 <#200007> S532.0 Diversification index 532
+53.903 1534 <#200007> S532.0 Received 1707996 literals
+53.903 1534 <#200007> S532.0 Received 0 assumptions
+53.918 1534 <#200007> S532.0 Reading rev. 0, start 0
+53.893 1534 <#200007> S533.0 Diversification index 533
+53.903 1534 <#200007> S533.0 Received 1707996 literals
+53.903 1534 <#200007> S533.0 Received 0 assumptions
+53.903 1534 <#200007> S533.0 Reading rev. 0, start 0
+53.894 1534 <#200007> S534.0 Diversification index 534
+53.903 1534 <#200007> S534.0 Received 1707996 literals
+53.903 1534 <#200007> S534.0 Received 0 assumptions
+53.914 1534 <#200007> S534.0 Reading rev. 0, start 0
+53.894 1534 <#200007> S535.0 Diversification index 535
+53.903 1534 <#200007> S535.0 Received 1707996 literals
+53.903 1534 <#200007> S535.0 Received 0 assumptions
+71.766 1534 <#200007> S535.0 Reading rev. 0, start 0
+54.564 1534 <#400009> S100.0 Diversification index 100
+54.575 1534 <#400009> S100.0 Received 1707996 literals
+54.575 1534 <#400009> S100.0 Received 0 assumptions
+54.575 1534 <#400009> S100.0 Reading rev. 0, start 0
+55.162 1534 <#400009> S100.0 Reading done @ rev. 0
+55.165 1534 <#400009> S100.0 BEGSOL rev. 0 (0 assumptions)
+54.566 1534 <#400009> S101.0 Diversification index 101
+54.575 1534 <#400009> S101.0 Received 1707996 literals
+54.575 1534 <#400009> S101.0 Received 0 assumptions
+54.575 1534 <#400009> S101.0 Reading rev. 0, start 0
+55.157 1534 <#400009> S101.0 Reading done @ rev. 0
+55.159 1534 <#400009> S101.0 BEGSOL rev. 0 (0 assumptions)
+54.566 1534 <#400009> S102.0 Diversification index 102
+54.575 1534 <#400009> S102.0 Received 1707996 literals
+54.575 1534 <#400009> S102.0 Received 0 assumptions
+54.575 1534 <#400009> S102.0 Reading rev. 0, start 0
+55.169 1534 <#400009> S102.0 Reading done @ rev. 0
+55.171 1534 <#400009> S102.0 BEGSOL rev. 0 (0 assumptions)
+54.567 1534 <#400009> S103.0 Diversification index 103
+54.575 1534 <#400009> S103.0 Received 1707996 literals
+54.575 1534 <#400009> S103.0 Received 0 assumptions
+54.575 1534 <#400009> S103.0 Reading rev. 0, start 0
+55.193 1534 <#400009> S103.0 Reading done @ rev. 0
+55.196 1534 <#400009> S103.0 BEGSOL rev. 0 (0 assumptions)
+72.728 1534 <#100010> S412.0 Diversification index 412
+90.849 1534 <#100010> S413.0 Diversification index 413
+90.850 1534 <#100010> S414.0 Diversification index 414
+90.850 1534 <#100010> S415.0 Diversification index 415
+72.924 1534 <#300011> S224.0 Diversification index 224
+72.934 1534 <#300011> S224.0 Received 1707996 literals
+72.934 1534 <#300011> S224.0 Received 0 assumptions
+72.934 1534 <#300011> S224.0 Reading rev. 0, start 0
+73.576 1534 <#300011> S224.0 Reading done @ rev. 0
+73.579 1534 <#300011> S224.0 BEGSOL rev. 0 (0 assumptions)
+72.925 1534 <#300011> S225.0 Diversification index 225
+72.934 1534 <#300011> S225.0 Received 1707996 literals
+72.934 1534 <#300011> S225.0 Received 0 assumptions
+72.934 1534 <#300011> S225.0 Reading rev. 0, start 0
+73.547 1534 <#300011> S225.0 Reading done @ rev. 0
+73.550 1534 <#300011> S225.0 BEGSOL rev. 0 (0 assumptions)
+72.925 1534 <#300011> S226.0 Diversification index 226
+72.934 1534 <#300011> S226.0 Received 1707996 literals
+72.934 1534 <#300011> S226.0 Received 0 assumptions
+72.934 1534 <#300011> S226.0 Reading rev. 0, start 0
+73.573 1534 <#300011> S226.0 Reading done @ rev. 0
+73.575 1534 <#300011> S226.0 BEGSOL rev. 0 (0 assumptions)
+72.926 1534 <#300011> S227.0 Diversification index 227
+72.934 1534 <#300011> S227.0 Received 1707996 literals
+72.934 1534 <#300011> S227.0 Received 0 assumptions
+72.934 1534 <#300011> S227.0 Reading rev. 0, start 0
+73.530 1534 <#300011> S227.0 Reading done @ rev. 0
+73.532 1534 <#300011> S227.0 BEGSOL rev. 0 (0 assumptions)
+91.573 1534 <#200013> S460.0 Diversification index 460
+91.587 1534 <#200013> S460.0 Received 1707996 literals
+91.587 1534 <#200013> S460.0 Received 0 assumptions
+91.587 1534 <#200013> S460.0 Reading rev. 0, start 0
+91.574 1534 <#200013> S461.0 Diversification index 461
+91.587 1534 <#200013> S461.0 Received 1707996 literals
+91.587 1534 <#200013> S461.0 Received 0 assumptions
+91.587 1534 <#200013> S461.0 Reading rev. 0, start 0
+91.574 1534 <#200013> S462.0 Diversification index 462
+91.587 1534 <#200013> S462.0 Received 1707996 literals
+91.587 1534 <#200013> S462.0 Received 0 assumptions
+91.589 1534 <#200013> S462.0 Reading rev. 0, start 0
+91.576 1534 <#200013> S463.0 Diversification index 463
+91.587 1534 <#200013> S463.0 Received 1707996 literals
+91.587 1534 <#200013> S463.0 Received 0 assumptions
+91.774 1534 <#100015> S16.0 Diversification index 16
+91.897 1534 <#100015> S16.0 Received 1707996 literals
+91.897 1534 <#100015> S16.0 Received 0 assumptions
+91.897 1534 <#100015> S16.0 Reading rev. 0, start 0
+92.500 1534 <#100015> S16.0 Reading done @ rev. 0
+92.503 1534 <#100015> S16.0 BEGSOL rev. 0 (0 assumptions)
+91.830 1534 <#100015> S17.0 Diversification index 17
+91.897 1534 <#100015> S17.0 Received 1707996 literals
+91.897 1534 <#100015> S17.0 Received 0 assumptions
+91.897 1534 <#100015> S17.0 Reading rev. 0, start 0
+92.484 1534 <#100015> S17.0 Reading done @ rev. 0
+92.486 1534 <#100015> S17.0 BEGSOL rev. 0 (0 assumptions)
+91.861 1534 <#100015> S18.0 Diversification index 18
+91.897 1534 <#100015> S18.0 Received 1707996 literals
+91.897 1534 <#100015> S18.0 Received 0 assumptions
+91.897 1534 <#100015> S18.0 Reading rev. 0, start 0
+92.478 1534 <#100015> S18.0 Reading done @ rev. 0
+92.480 1534 <#100015> S18.0 BEGSOL rev. 0 (0 assumptions)
+91.888 1534 <#100015> S19.0 Diversification index 19
+91.897 1534 <#100015> S19.0 Received 1707996 literals
+91.897 1534 <#100015> S19.0 Received 0 assumptions
+91.897 1534 <#100015> S19.0 Reading rev. 0, start 0
+92.505 1534 <#100015> S19.0 Reading done @ rev. 0
+92.508 1534 <#100015> S19.0 BEGSOL rev. 0 (0 assumptions)
+110.429 1534 <#15> S372.0 Diversification index 372
+110.430 1534 <#15> S373.0 Diversification index 373
+110.430 1534 <#15> S374.0 Diversification index 374
+110.431 1534 <#15> S375.0 Diversification index 375
+128.533 1534 <#300016> S476.0 Diversification index 476
+128.534 1534 <#300016> S477.0 Diversification index 477
+128.535 1534 <#300016> S478.0 Diversification index 478
+128.536 1534 <#300016> S479.0 Diversification index 479
+110.551 1534 <#300018> S32.0 Diversification index 32
+110.560 1534 <#300018> S32.0 Received 1707996 literals
+110.560 1534 <#300018> S32.0 Received 0 assumptions
+110.560 1534 <#300018> S32.0 Reading rev. 0, start 0
+111.152 1534 <#300018> S32.0 Reading done @ rev. 0
+111.154 1534 <#300018> S32.0 BEGSOL rev. 0 (0 assumptions)
+110.551 1534 <#300018> S33.0 Diversification index 33
+110.560 1534 <#300018> S33.0 Received 1707996 literals
+110.560 1534 <#300018> S33.0 Received 0 assumptions
+110.560 1534 <#300018> S33.0 Reading rev. 0, start 0
+111.239 1534 <#300018> S33.0 Reading done @ rev. 0
+111.241 1534 <#300018> S33.0 BEGSOL rev. 0 (0 assumptions)
+110.551 1534 <#300018> S34.0 Diversification index 34
+110.560 1534 <#300018> S34.0 Received 1707996 literals
+110.560 1534 <#300018> S34.0 Received 0 assumptions
+110.560 1534 <#300018> S34.0 Reading rev. 0, start 0
+111.174 1534 <#300018> S34.0 Reading done @ rev. 0
+111.177 1534 <#300018> S34.0 BEGSOL rev. 0 (0 assumptions)
+110.552 1534 <#300018> S35.0 Diversification index 35
+110.560 1534 <#300018> S35.0 Received 1707996 literals
+110.560 1534 <#300018> S35.0 Received 0 assumptions
+110.561 1534 <#300018> S35.0 Reading rev. 0, start 0
+111.186 1534 <#300018> S35.0 Reading done @ rev. 0
+111.189 1534 <#300018> S35.0 BEGSOL rev. 0 (0 assumptions)
+146.467 1534 <#700019> S428.0 Diversification index 428
+146.468 1534 <#700019> S429.0 Diversification index 429
+146.469 1534 <#700019> S430.0 Diversification index 430
+146.470 1534 <#700019> S431.0 Diversification index 431
+129.361 1534 <#700021> S80.0 Diversification index 80
+129.370 1534 <#700021> S80.0 Received 1707996 literals
+129.370 1534 <#700021> S80.0 Received 0 assumptions
+129.370 1534 <#700021> S80.0 Reading rev. 0, start 0
+129.966 1534 <#700021> S80.0 Reading done @ rev. 0
+129.969 1534 <#700021> S80.0 BEGSOL rev. 0 (0 assumptions)
+129.361 1534 <#700021> S81.0 Diversification index 81
+129.370 1534 <#700021> S81.0 Received 1707996 literals
+129.370 1534 <#700021> S81.0 Received 0 assumptions
+129.370 1534 <#700021> S81.0 Reading rev. 0, start 0
+130.016 1534 <#700021> S81.0 Reading done @ rev. 0
+130.018 1534 <#700021> S81.0 BEGSOL rev. 0 (0 assumptions)
+129.362 1534 <#700021> S82.0 Diversification index 82
+129.370 1534 <#700021> S82.0 Received 1707996 literals
+129.370 1534 <#700021> S82.0 Received 0 assumptions
+129.370 1534 <#700021> S82.0 Reading rev. 0, start 0
+129.984 1534 <#700021> S82.0 Reading done @ rev. 0
+129.986 1534 <#700021> S82.0 BEGSOL rev. 0 (0 assumptions)
+129.362 1534 <#700021> S83.0 Diversification index 83
+129.370 1534 <#700021> S83.0 Received 1707996 literals
+129.370 1534 <#700021> S83.0 Received 0 assumptions
+129.370 1534 <#700021> S83.0 Reading rev. 0, start 0
+130.007 1534 <#700021> S83.0 Reading done @ rev. 0
+130.010 1534 <#700021> S83.0 BEGSOL rev. 0 (0 assumptions)
+148.014 1534 <#100024> S120.0 Diversification index 120
+148.024 1534 <#100024> S120.0 Received 1707996 literals
+148.024 1534 <#100024> S120.0 Received 0 assumptions
+148.024 1534 <#100024> S120.0 Reading rev. 0, start 0
+148.701 1534 <#100024> S120.0 Reading done @ rev. 0
+148.718 1534 <#100024> S120.0 BEGSOL rev. 0 (0 assumptions)
+148.014 1534 <#100024> S121.0 Diversification index 121
+148.024 1534 <#100024> S121.0 Received 1707996 literals
+148.024 1534 <#100024> S121.0 Received 0 assumptions
+148.060 1534 <#100024> S121.0 Reading rev. 0, start 0
+148.690 1534 <#100024> S121.0 Reading done @ rev. 0
+148.717 1534 <#100024> S121.0 BEGSOL rev. 0 (0 assumptions)
+148.015 1534 <#100024> S122.0 Diversification index 122
+148.024 1534 <#100024> S122.0 Received 1707996 literals
+148.024 1534 <#100024> S122.0 Received 0 assumptions
+148.025 1534 <#100024> S122.0 Reading rev. 0, start 0
+148.693 1534 <#100024> S122.0 Reading done @ rev. 0
+148.695 1534 <#100024> S122.0 BEGSOL rev. 0 (0 assumptions)
+148.015 1534 <#100024> S123.0 Diversification index 123
+148.024 1534 <#100024> S123.0 Received 1707996 literals
+148.024 1534 <#100024> S123.0 Received 0 assumptions
+148.036 1534 <#100024> S123.0 Reading rev. 0, start 0
+148.649 1534 <#100024> S123.0 Reading done @ rev. 0
+148.651 1534 <#100024> S123.0 BEGSOL rev. 0 (0 assumptions)
+166.454 1534 <#200027> S12.0 Diversification index 12
+166.464 1534 <#200027> S12.0 Received 1707996 literals
+166.464 1534 <#200027> S12.0 Received 0 assumptions
+166.464 1534 <#200027> S12.0 Reading rev. 0, start 0
+167.241 1534 <#200027> S12.0 Reading done @ rev. 0
+167.244 1534 <#200027> S12.0 BEGSOL rev. 0 (0 assumptions)
+166.455 1534 <#200027> S13.0 Diversification index 13
+166.464 1534 <#200027> S13.0 Received 1707996 literals
+166.464 1534 <#200027> S13.0 Received 0 assumptions
+166.464 1534 <#200027> S13.0 Reading rev. 0, start 0
+167.328 1534 <#200027> S13.0 Reading done @ rev. 0
+167.331 1534 <#200027> S13.0 BEGSOL rev. 0 (0 assumptions)
+166.455 1534 <#200027> S14.0 Diversification index 14
+166.464 1534 <#200027> S14.0 Received 1707996 literals
+166.464 1534 <#200027> S14.0 Received 0 assumptions
+166.464 1534 <#200027> S14.0 Reading rev. 0, start 0
+167.096 1534 <#200027> S14.0 Reading done @ rev. 0
+167.098 1534 <#200027> S14.0 BEGSOL rev. 0 (0 assumptions)
+166.456 1534 <#200027> S15.0 Diversification index 15
+166.464 1534 <#200027> S15.0 Received 1707996 literals
+166.464 1534 <#200027> S15.0 Received 0 assumptions
+166.465 1534 <#200027> S15.0 Reading rev. 0, start 0
+167.362 1534 <#200027> S15.0 Reading done @ rev. 0
+167.365 1534 <#200027> S15.0 BEGSOL rev. 0 (0 assumptions)
+184.937 1534 <#28> S188.0 Diversification index 188
+184.946 1534 <#28> S188.0 Received 1707996 literals
+184.946 1534 <#28> S188.0 Received 0 assumptions
+184.946 1534 <#28> S188.0 Reading rev. 0, start 0
+185.606 1534 <#28> S188.0 Reading done @ rev. 0
+185.608 1534 <#28> S188.0 BEGSOL rev. 0 (0 assumptions)
+184.938 1534 <#28> S189.0 Diversification index 189
+184.946 1534 <#28> S189.0 Received 1707996 literals
+184.946 1534 <#28> S189.0 Received 0 assumptions
+184.946 1534 <#28> S189.0 Reading rev. 0, start 0
+185.661 1534 <#28> S189.0 Reading done @ rev. 0
+185.664 1534 <#28> S189.0 BEGSOL rev. 0 (0 assumptions)
+184.938 1534 <#28> S190.0 Diversification index 190
+184.946 1534 <#28> S190.0 Received 1707996 literals
+184.946 1534 <#28> S190.0 Received 0 assumptions
+184.946 1534 <#28> S190.0 Reading rev. 0, start 0
+185.674 1534 <#28> S190.0 Reading done @ rev. 0
+185.678 1534 <#28> S190.0 BEGSOL rev. 0 (0 assumptions)
+184.938 1534 <#28> S191.0 Diversification index 191
+184.946 1534 <#28> S191.0 Received 1707996 literals
+184.946 1534 <#28> S191.0 Received 0 assumptions
+184.947 1534 <#28> S191.0 Reading rev. 0, start 0
+185.548 1534 <#28> S191.0 Reading done @ rev. 0
+185.551 1534 <#28> S191.0 BEGSOL rev. 0 (0 assumptions)
+204.572 1534 <#600030> S276.0 Diversification index 276
+204.573 1534 <#600030> S277.0 Diversification index 277
+204.573 1534 <#600030> S278.0 Diversification index 278
+204.574 1534 <#600030> S279.0 Diversification index 279
+203.434 1534 <#500031> S52.0 Diversification index 52
+203.444 1534 <#500031> S52.0 Received 1707996 literals
+203.444 1534 <#500031> S52.0 Received 0 assumptions
+203.444 1534 <#500031> S52.0 Reading rev. 0, start 0
+204.027 1534 <#500031> S52.0 Reading done @ rev. 0
+204.029 1534 <#500031> S52.0 BEGSOL rev. 0 (0 assumptions)
+203.435 1534 <#500031> S53.0 Diversification index 53
+203.444 1534 <#500031> S53.0 Received 1707996 literals
+203.444 1534 <#500031> S53.0 Received 0 assumptions
+203.444 1534 <#500031> S53.0 Reading rev. 0, start 0
+204.128 1534 <#500031> S53.0 Reading done @ rev. 0
+204.131 1534 <#500031> S53.0 BEGSOL rev. 0 (0 assumptions)
+203.435 1534 <#500031> S54.0 Diversification index 54
+203.444 1534 <#500031> S54.0 Received 1707996 literals
+203.444 1534 <#500031> S54.0 Received 0 assumptions
+203.444 1534 <#500031> S54.0 Reading rev. 0, start 0
+204.054 1534 <#500031> S54.0 Reading done @ rev. 0
+204.056 1534 <#500031> S54.0 BEGSOL rev. 0 (0 assumptions)
+203.436 1534 <#500031> S55.0 Diversification index 55
+203.444 1534 <#500031> S55.0 Received 1707996 literals
+203.444 1534 <#500031> S55.0 Received 0 assumptions
+203.445 1534 <#500031> S55.0 Reading rev. 0, start 0
+204.051 1534 <#500031> S55.0 Reading done @ rev. 0
+204.053 1534 <#500031> S55.0 BEGSOL rev. 0 (0 assumptions)
+221.911 1534 <#200034> S276.0 Diversification index 276
+221.921 1534 <#200034> S276.0 Received 1707996 literals
+221.921 1534 <#200034> S276.0 Received 0 assumptions
+221.921 1534 <#200034> S276.0 Reading rev. 0, start 0
+222.536 1534 <#200034> S276.0 Reading done @ rev. 0
+222.548 1534 <#200034> S276.0 BEGSOL rev. 0 (0 assumptions)
+221.912 1534 <#200034> S277.0 Diversification index 277
+221.921 1534 <#200034> S277.0 Received 1707996 literals
+221.921 1534 <#200034> S277.0 Received 0 assumptions
+221.921 1534 <#200034> S277.0 Reading rev. 0, start 0
+222.506 1534 <#200034> S277.0 Reading done @ rev. 0
+222.528 1534 <#200034> S277.0 BEGSOL rev. 0 (0 assumptions)
+221.913 1534 <#200034> S278.0 Diversification index 278
+221.921 1534 <#200034> S278.0 Received 1707996 literals
+221.921 1534 <#200034> S278.0 Received 0 assumptions
+221.921 1534 <#200034> S278.0 Reading rev. 0, start 0
+222.535 1534 <#200034> S278.0 Reading done @ rev. 0
+222.547 1534 <#200034> S278.0 BEGSOL rev. 0 (0 assumptions)
+221.913 1534 <#200034> S279.0 Diversification index 279
+221.921 1534 <#200034> S279.0 Received 1707996 literals
+221.921 1534 <#200034> S279.0 Received 0 assumptions
+221.921 1534 <#200034> S279.0 Reading rev. 0, start 0
+222.505 1534 <#200034> S279.0 Reading done @ rev. 0
+222.529 1534 <#200034> S279.0 BEGSOL rev. 0 (0 assumptions)
+222.723 1534 <#200036> S196.0 Diversification index 196
+222.771 1534 <#200036> S196.0 Received 1707996 literals
+222.771 1534 <#200036> S196.0 Received 0 assumptions
+222.771 1534 <#200036> S196.0 Reading rev. 0, start 0
+223.358 1534 <#200036> S196.0 Reading done @ rev. 0
+223.360 1534 <#200036> S196.0 BEGSOL rev. 0 (0 assumptions)
+222.762 1534 <#200036> S197.0 Diversification index 197
+222.771 1534 <#200036> S197.0 Received 1707996 literals
+222.771 1534 <#200036> S197.0 Received 0 assumptions
+222.771 1534 <#200036> S197.0 Reading rev. 0, start 0
+223.629 1534 <#200036> S197.0 Reading done @ rev. 0
+223.632 1534 <#200036> S197.0 BEGSOL rev. 0 (0 assumptions)
+222.762 1534 <#200036> S198.0 Diversification index 198
+222.771 1534 <#200036> S198.0 Received 1707996 literals
+222.771 1534 <#200036> S198.0 Received 0 assumptions
+222.771 1534 <#200036> S198.0 Reading rev. 0, start 0
+223.372 1534 <#200036> S198.0 Reading done @ rev. 0
+223.374 1534 <#200036> S198.0 BEGSOL rev. 0 (0 assumptions)
+222.763 1534 <#200036> S199.0 Diversification index 199
+222.771 1534 <#200036> S199.0 Received 1707996 literals
+222.771 1534 <#200036> S199.0 Received 0 assumptions
+222.771 1534 <#200036> S199.0 Reading rev. 0, start 0
+223.862 1534 <#200036> S199.0 Reading done @ rev. 0
+223.864 1534 <#200036> S199.0 BEGSOL rev. 0 (0 assumptions)
+241.193 1534 <#37> S280.0 Diversification index 280
+241.202 1534 <#37> S280.0 Received 1707996 literals
+241.202 1534 <#37> S280.0 Received 0 assumptions
+241.202 1534 <#37> S280.0 Reading rev. 0, start 0
+241.193 1534 <#37> S281.0 Diversification index 281
+241.202 1534 <#37> S281.0 Received 1707996 literals
+241.202 1534 <#37> S281.0 Received 0 assumptions
+241.202 1534 <#37> S281.0 Reading rev. 0, start 0
+241.194 1534 <#37> S282.0 Diversification index 282
+241.202 1534 <#37> S282.0 Received 1707996 literals
+241.202 1534 <#37> S282.0 Received 0 assumptions
+241.202 1534 <#37> S282.0 Reading rev. 0, start 0
+241.194 1534 <#37> S283.0 Diversification index 283
+241.202 1534 <#37> S283.0 Received 1707996 literals
+241.202 1534 <#37> S283.0 Received 0 assumptions
+241.203 1534 <#37> S283.0 Reading rev. 0, start 0
+241.364 1534 <#200038> S240.0 Diversification index 240
+241.373 1534 <#200038> S240.0 Received 1707996 literals
+241.373 1534 <#200038> S240.0 Received 0 assumptions
+241.373 1534 <#200038> S240.0 Reading rev. 0, start 0
+242.040 1534 <#200038> S240.0 Reading done @ rev. 0
+242.043 1534 <#200038> S240.0 BEGSOL rev. 0 (0 assumptions)
+241.364 1534 <#200038> S241.0 Diversification index 241
+241.373 1534 <#200038> S241.0 Received 1707996 literals
+241.373 1534 <#200038> S241.0 Received 0 assumptions
+241.373 1534 <#200038> S241.0 Reading rev. 0, start 0
+241.990 1534 <#200038> S241.0 Reading done @ rev. 0
+241.992 1534 <#200038> S241.0 BEGSOL rev. 0 (0 assumptions)
+241.365 1534 <#200038> S242.0 Diversification index 242
+241.373 1534 <#200038> S242.0 Received 1707996 literals
+241.373 1534 <#200038> S242.0 Received 0 assumptions
+241.373 1534 <#200038> S242.0 Reading rev. 0, start 0
+242.230 1534 <#200038> S242.0 Reading done @ rev. 0
+242.253 1534 <#200038> S242.0 BEGSOL rev. 0 (0 assumptions)
+241.365 1534 <#200038> S243.0 Diversification index 243
+241.373 1534 <#200038> S243.0 Received 1707996 literals
+241.373 1534 <#200038> S243.0 Received 0 assumptions
+241.373 1534 <#200038> S243.0 Reading rev. 0, start 0
+241.954 1534 <#200038> S243.0 Reading done @ rev. 0
+241.957 1534 <#200038> S243.0 BEGSOL rev. 0 (0 assumptions)
+259.845 1534 <#400040> S224.0 Diversification index 224
+259.855 1534 <#400040> S224.0 Received 1707996 literals
+259.855 1534 <#400040> S224.0 Received 0 assumptions
+259.855 1534 <#400040> S224.0 Reading rev. 0, start 0
+260.435 1534 <#400040> S224.0 Reading done @ rev. 0
+260.437 1534 <#400040> S224.0 BEGSOL rev. 0 (0 assumptions)
+259.846 1534 <#400040> S225.0 Diversification index 225
+259.855 1534 <#400040> S225.0 Received 1707996 literals
+259.855 1534 <#400040> S225.0 Received 0 assumptions
+259.855 1534 <#400040> S225.0 Reading rev. 0, start 0
+260.455 1534 <#400040> S225.0 Reading done @ rev. 0
+260.457 1534 <#400040> S225.0 BEGSOL rev. 0 (0 assumptions)
+259.846 1534 <#400040> S226.0 Diversification index 226
+259.855 1534 <#400040> S226.0 Received 1707996 literals
+259.855 1534 <#400040> S226.0 Received 0 assumptions
+259.855 1534 <#400040> S226.0 Reading rev. 0, start 0
+260.491 1534 <#400040> S226.0 Reading done @ rev. 0
+260.493 1534 <#400040> S226.0 BEGSOL rev. 0 (0 assumptions)
+259.847 1534 <#400040> S227.0 Diversification index 227
+259.855 1534 <#400040> S227.0 Received 1707996 literals
+259.855 1534 <#400040> S227.0 Received 0 assumptions
+259.856 1534 <#400040> S227.0 Reading rev. 0, start 0
+260.440 1534 <#400040> S227.0 Reading done @ rev. 0
+260.442 1534 <#400040> S227.0 BEGSOL rev. 0 (0 assumptions)
+278.352 1534 <#500041> S272.0 Diversification index 272
+278.361 1534 <#500041> S272.0 Received 1707996 literals
+278.361 1534 <#500041> S272.0 Received 0 assumptions
+278.361 1534 <#500041> S272.0 Reading rev. 0, start 0
+278.352 1534 <#500041> S273.0 Diversification index 273
+278.361 1534 <#500041> S273.0 Received 1707996 literals
+278.361 1534 <#500041> S273.0 Received 0 assumptions
+278.361 1534 <#500041> S273.0 Reading rev. 0, start 0
+278.353 1534 <#500041> S274.0 Diversification index 274
+278.361 1534 <#500041> S274.0 Received 1707996 literals
+278.361 1534 <#500041> S274.0 Received 0 assumptions
+278.361 1534 <#500041> S274.0 Reading rev. 0, start 0
+278.353 1534 <#500041> S275.0 Diversification index 275
+278.361 1534 <#500041> S275.0 Received 1707996 literals
+278.361 1534 <#500041> S275.0 Received 0 assumptions
+278.361 1534 <#500041> S275.0 Reading rev. 0, start 0
+278.907 1534 <#300043> S76.0 Diversification index 76
+278.917 1534 <#300043> S76.0 Received 1707996 literals
+278.917 1534 <#300043> S76.0 Received 0 assumptions
+278.917 1534 <#300043> S76.0 Reading rev. 0, start 0
+279.571 1534 <#300043> S76.0 Reading done @ rev. 0
+279.573 1534 <#300043> S76.0 BEGSOL rev. 0 (0 assumptions)
+278.908 1534 <#300043> S77.0 Diversification index 77
+278.917 1534 <#300043> S77.0 Received 1707996 literals
+278.917 1534 <#300043> S77.0 Received 0 assumptions
+278.917 1534 <#300043> S77.0 Reading rev. 0, start 0
+279.548 1534 <#300043> S77.0 Reading done @ rev. 0
+279.550 1534 <#300043> S77.0 BEGSOL rev. 0 (0 assumptions)
+278.908 1534 <#300043> S78.0 Diversification index 78
+278.917 1534 <#300043> S78.0 Received 1707996 literals
+278.917 1534 <#300043> S78.0 Received 0 assumptions
+278.917 1534 <#300043> S78.0 Reading rev. 0, start 0
+279.625 1534 <#300043> S78.0 Reading done @ rev. 0
+279.628 1534 <#300043> S78.0 BEGSOL rev. 0 (0 assumptions)
+278.909 1534 <#300043> S79.0 Diversification index 79
+278.917 1534 <#300043> S79.0 Received 1707996 literals
+278.917 1534 <#300043> S79.0 Received 0 assumptions
+278.917 1534 <#300043> S79.0 Reading rev. 0, start 0
+279.511 1534 <#300043> S79.0 Reading done @ rev. 0
+279.514 1534 <#300043> S79.0 BEGSOL rev. 0 (0 assumptions)
+297.410 1534 <#400047> S220.0 Diversification index 220
+297.419 1534 <#400047> S220.0 Received 1707996 literals
+297.419 1534 <#400047> S220.0 Received 0 assumptions
+297.419 1534 <#400047> S220.0 Reading rev. 0, start 0
+298.013 1534 <#400047> S220.0 Reading done @ rev. 0
+298.047 1534 <#400047> S220.0 BEGSOL rev. 0 (0 assumptions)
+297.410 1534 <#400047> S221.0 Diversification index 221
+297.419 1534 <#400047> S221.0 Received 1707996 literals
+297.419 1534 <#400047> S221.0 Received 0 assumptions
+297.419 1534 <#400047> S221.0 Reading rev. 0, start 0
+298.032 1534 <#400047> S221.0 Reading done @ rev. 0
+298.064 1534 <#400047> S221.0 BEGSOL rev. 0 (0 assumptions)
+297.410 1534 <#400047> S222.0 Diversification index 222
+297.419 1534 <#400047> S222.0 Received 1707996 literals
+297.419 1534 <#400047> S222.0 Received 0 assumptions
+297.419 1534 <#400047> S222.0 Reading rev. 0, start 0
+298.104 1534 <#400047> S222.0 Reading done @ rev. 0
+298.107 1534 <#400047> S222.0 BEGSOL rev. 0 (0 assumptions)
+297.411 1534 <#400047> S223.0 Diversification index 223
+297.419 1534 <#400047> S223.0 Received 1707996 literals
+297.419 1534 <#400047> S223.0 Received 0 assumptions
+297.419 1534 <#400047> S223.0 Reading rev. 0, start 0
+298.013 1534 <#400047> S223.0 Reading done @ rev. 0
+298.064 1534 <#400047> S223.0 BEGSOL rev. 0 (0 assumptions)
+315.912 1534 <#46> S276.0 Diversification index 276
+315.912 1534 <#46> S277.0 Diversification index 277
+315.913 1534 <#46> S278.0 Diversification index 278
+315.913 1534 <#46> S279.0 Diversification index 279
+316.045 1534 <#100051> S184.0 Diversification index 184
+316.055 1534 <#100051> S184.0 Received 1707996 literals
+316.055 1534 <#100051> S184.0 Received 0 assumptions
+316.055 1534 <#100051> S184.0 Reading rev. 0, start 0
+316.649 1534 <#100051> S184.0 Reading done @ rev. 0
+316.651 1534 <#100051> S184.0 BEGSOL rev. 0 (0 assumptions)
+316.046 1534 <#100051> S185.0 Diversification index 185
+316.055 1534 <#100051> S185.0 Received 1707996 literals
+316.055 1534 <#100051> S185.0 Received 0 assumptions
+316.055 1534 <#100051> S185.0 Reading rev. 0, start 0
+316.670 1534 <#100051> S185.0 Reading done @ rev. 0
+316.673 1534 <#100051> S185.0 BEGSOL rev. 0 (0 assumptions)
+316.046 1534 <#100051> S186.0 Diversification index 186
+316.055 1534 <#100051> S186.0 Received 1707996 literals
+316.055 1534 <#100051> S186.0 Received 0 assumptions
+316.055 1534 <#100051> S186.0 Reading rev. 0, start 0
+316.674 1534 <#100051> S186.0 Reading done @ rev. 0
+316.677 1534 <#100051> S186.0 BEGSOL rev. 0 (0 assumptions)
+316.046 1534 <#100051> S187.0 Diversification index 187
+316.055 1534 <#100051> S187.0 Received 1707996 literals
+316.055 1534 <#100051> S187.0 Received 0 assumptions
+316.055 1534 <#100051> S187.0 Reading rev. 0, start 0
+316.662 1534 <#100051> S187.0 Reading done @ rev. 0
+316.665 1534 <#100051> S187.0 BEGSOL rev. 0 (0 assumptions)
+334.492 1534 <#200052> S268.0 Diversification index 268
+334.501 1534 <#200052> S268.0 Received 1707996 literals
+334.501 1534 <#200052> S268.0 Received 0 assumptions
+334.501 1534 <#200052> S268.0 Reading rev. 0, start 0
+334.492 1534 <#200052> S269.0 Diversification index 269
+334.501 1534 <#200052> S269.0 Received 1707996 literals
+334.501 1534 <#200052> S269.0 Received 0 assumptions
+334.501 1534 <#200052> S269.0 Reading rev. 0, start 0
+334.493 1534 <#200052> S270.0 Diversification index 270
+334.501 1534 <#200052> S270.0 Received 1707996 literals
+334.501 1534 <#200052> S270.0 Received 0 assumptions
+334.501 1534 <#200052> S270.0 Reading rev. 0, start 0
+334.493 1534 <#200052> S271.0 Diversification index 271
+334.501 1534 <#200052> S271.0 Received 1707996 literals
+334.501 1534 <#200052> S271.0 Received 0 assumptions
+334.502 1534 <#200052> S271.0 Reading rev. 0, start 0
+334.680 1534 <#100054> S56.0 Diversification index 56
+334.689 1534 <#100054> S56.0 Received 1707996 literals
+334.689 1534 <#100054> S56.0 Received 0 assumptions
+334.689 1534 <#100054> S56.0 Reading rev. 0, start 0
+335.281 1534 <#100054> S56.0 Reading done @ rev. 0
+335.322 1534 <#100054> S56.0 BEGSOL rev. 0 (0 assumptions)
+334.680 1534 <#100054> S57.0 Diversification index 57
+334.689 1534 <#100054> S57.0 Received 1707996 literals
+334.689 1534 <#100054> S57.0 Received 0 assumptions
+334.689 1534 <#100054> S57.0 Reading rev. 0, start 0
+335.303 1534 <#100054> S57.0 Reading done @ rev. 0
+335.333 1534 <#100054> S57.0 BEGSOL rev. 0 (0 assumptions)
+334.681 1534 <#100054> S58.0 Diversification index 58
+334.689 1534 <#100054> S58.0 Received 1707996 literals
+334.689 1534 <#100054> S58.0 Received 0 assumptions
+334.689 1534 <#100054> S58.0 Reading rev. 0, start 0
+335.359 1534 <#100054> S58.0 Reading done @ rev. 0
+335.362 1534 <#100054> S58.0 BEGSOL rev. 0 (0 assumptions)
+334.681 1534 <#100054> S59.0 Diversification index 59
+334.689 1534 <#100054> S59.0 Received 1707996 literals
+334.689 1534 <#100054> S59.0 Received 0 assumptions
+334.689 1534 <#100054> S59.0 Reading rev. 0, start 0
+335.281 1534 <#100054> S59.0 Reading done @ rev. 0
+335.332 1534 <#100054> S59.0 BEGSOL rev. 0 (0 assumptions)
+353.193 1534 <#500053> S276.0 Diversification index 276
+353.202 1534 <#500053> S276.0 Received 1707996 literals
+353.202 1534 <#500053> S276.0 Received 0 assumptions
+353.202 1534 <#500053> S276.0 Reading rev. 0, start 0
+353.193 1534 <#500053> S277.0 Diversification index 277
+353.202 1534 <#500053> S277.0 Received 1707996 literals
+353.202 1534 <#500053> S277.0 Received 0 assumptions
+353.202 1534 <#500053> S277.0 Reading rev. 0, start 0
+353.194 1534 <#500053> S278.0 Diversification index 278
+353.202 1534 <#500053> S278.0 Received 1707996 literals
+353.202 1534 <#500053> S278.0 Received 0 assumptions
+353.203 1534 <#500053> S278.0 Reading rev. 0, start 0
+353.194 1534 <#500053> S279.0 Diversification index 279
+353.202 1534 <#500053> S279.0 Received 1707996 literals
+353.202 1534 <#500053> S279.0 Received 0 assumptions
+353.203 1534 <#500053> S279.0 Reading rev. 0, start 0
+353.358 1534 <#400055> S88.0 Diversification index 88
+353.367 1534 <#400055> S88.0 Received 1707996 literals
+353.367 1534 <#400055> S88.0 Received 0 assumptions
+353.367 1534 <#400055> S88.0 Reading rev. 0, start 0
+354.016 1534 <#400055> S88.0 Reading done @ rev. 0
+354.019 1534 <#400055> S88.0 BEGSOL rev. 0 (0 assumptions)
+353.358 1534 <#400055> S89.0 Diversification index 89
+353.367 1534 <#400055> S89.0 Received 1707996 literals
+353.367 1534 <#400055> S89.0 Received 0 assumptions
+353.367 1534 <#400055> S89.0 Reading rev. 0, start 0
+353.982 1534 <#400055> S89.0 Reading done @ rev. 0
+353.985 1534 <#400055> S89.0 BEGSOL rev. 0 (0 assumptions)
+353.359 1534 <#400055> S90.0 Diversification index 90
+353.367 1534 <#400055> S90.0 Received 1707996 literals
+353.367 1534 <#400055> S90.0 Received 0 assumptions
+353.368 1534 <#400055> S90.0 Reading rev. 0, start 0
+354.004 1534 <#400055> S90.0 Reading done @ rev. 0
+354.007 1534 <#400055> S90.0 BEGSOL rev. 0 (0 assumptions)
+353.359 1534 <#400055> S91.0 Diversification index 91
+353.367 1534 <#400055> S91.0 Received 1707996 literals
+353.367 1534 <#400055> S91.0 Received 0 assumptions
+353.368 1534 <#400055> S91.0 Reading rev. 0, start 0
+353.958 1534 <#400055> S91.0 Reading done @ rev. 0
+353.960 1534 <#400055> S91.0 BEGSOL rev. 0 (0 assumptions)
