@@ -18,6 +18,17 @@ In addition, each directory of a PE configured to introduce jobs contains the fo
 * `log.<rank>.i`, `log.<rank>.i-fs`, `log.<rank>.i-api`, `log.<rank>.streamer`: The output of background threads introducing jobs.
 * `log.<rank>.reader`: The output of background threads parsing descriptions of introduced jobs.
 
+## Extracting Data
+
+General data can be extracted from the following log lines in particular:
+
+* `<time> 0 sysstate busyratio=X cmtdratio=X jobs=X globmem=XGB newreqs=X hops=X`: This line is output every second by rank zero and gives useful information e.g. on the ratio of busy PEs, the number of active jobs, or the global RAM in use.
+* `<time> <rank> sysstate entered=X parsed=X scheduled=X processed=X`: This line is output every second by the PE with the smallest rank among all PEs which introduce jobs to the system.
+* `<time> <rank> Scheduling r.#<jobid>:0 ... (latency: <latency>s)`: A new job for which an initial request message was introduced to the system can now be scheduled on a specific PE after `<latency>` seconds.
+* `<time> <rank> EXECUTE #<jobid>:<treeindex> <= <sender>`: A new worker is initialized at a PE after receiving a job description from `<sender>`.
+* `<time> <rank> LOAD <0|1> (<+|->#<jobid>:<treeindex>)`: A PE begins/continues ("+") or stops ("-") to execute a certain worker.
+* `<time> <rank> #<jobid>:0 : update v=<volume> ...`: A job receives a volume update.
+
 ## Result Files
 
 We provide some central data extracted from the log files:
