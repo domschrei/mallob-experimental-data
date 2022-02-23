@@ -23,7 +23,7 @@ In addition, each directory of a PE configured to introduce jobs contains the fo
 General data can be extracted from the following log lines in particular:
 
 * `<time> 0 sysstate busyratio=X cmtdratio=X jobs=X globmem=XGB newreqs=X hops=X`: This line is output every second by rank zero and gives useful information e.g. on the ratio of busy PEs, the number of active jobs, or the global RAM in use.
-* `<time> <rank> sysstate entered=X parsed=X scheduled=X processed=X`: This line is output every second by the PE with the smallest rank among all PEs which introduce jobs to the system.
+* `<time> <rank> sysstate entered=X parsed=X scheduled=X processed=X`: This line is output every second by the PE with the smallest rank among all PEs which introduce jobs to the system. We computed throughputs using the `processed` field.
 * `<time> <rank> Scheduling r.#<jobid>:0 ... (latency: <latency>s)`: A new job for which an initial request message was introduced to the system can now be scheduled on a specific PE after `<latency>` seconds.
 * `<time> <rank> EXECUTE #<jobid>:<treeindex> <= <sender>`: A new worker is initialized at a PE after receiving a job description from `<sender>`.
 * `<time> <rank> LOAD <0|1> (<+|->#<jobid>:<treeindex>)`: A PE begins/continues ("+") or stops ("-") to execute a certain worker.
@@ -34,3 +34,4 @@ General data can be extracted from the following log lines in particular:
 We provide some central data extracted from the log files:
 
 * `mallob_priorities`: The file `priorities` contains the nine used priority values. The file `avg_volumes` contains for each job ID its average assigned volume over time. The jobs of highest priority have IDs < 100'000, the jobs of the second highest priority have IDs < 200'000, and so on. For each priority, the same set of 80 jobs has been processed repeatedly (to guarantee constant system utilization even if one of the streams already processed 80 jobs). Each file `response_times.<k>` contains successful response times among the first 80 jobs of k-th highest priority.
+* More data will be made available later this week.
