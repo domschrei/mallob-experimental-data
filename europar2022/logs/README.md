@@ -17,3 +17,9 @@ In addition, each directory of a PE configured to introduce jobs contains the fo
 
 * `log.<rank>.i`, `log.<rank>.i-fs`, `log.<rank>.i-api`, `log.<rank>.streamer`: The output of background threads introducing jobs.
 * `log.<rank>.reader`: The output of background threads parsing descriptions of introduced jobs.
+
+## Result Files
+
+We provide some central data extracted from the log files:
+
+* `mallob_priorities`: The file `priorities` contains the nine used priority values. The file `avg_volumes` contains for each job ID its average assigned volume over time. The jobs of highest priority have IDs < 100'000, the jobs of the second highest priority have IDs < 200'000, and so on. For each priority, the same set of 80 jobs has been processed repeatedly (to guarantee constant system utilization even if one of the streams already processed 80 jobs). Each file `response_times.<k>` contains successful response times among the first 80 jobs of k-th highest priority.
